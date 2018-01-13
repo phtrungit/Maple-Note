@@ -8,9 +8,9 @@
 **1. User launches the app. An icon  will be added to notification area**
 
 **2. User can right click on it to see menu: View notes, View statitistics, Exit**
-**- Exit menu, of course, will exit the app**
-**- View notes: A listbox will display all the tags, each tag has the number of notes corresponding with it**
-**- View statistics: Display chart based on tags and number of corresponding notes**
+* **- Exit menu, of course, will exit the app**
+* **- View notes: A listbox will display all the tags, each tag has the number of notes corresponding with it**
+* **- View statistics: Display chart based on tags and number of corresponding notes**
 
 **3.When click on a tag, a list of all notes will be displayed briefly (around first 50 characters for preview) in a listbox**
 
